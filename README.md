@@ -31,6 +31,3 @@ flutter test
 
 ![Profile page](profile.png)
 
-## Author
-
-Solomon Leek
