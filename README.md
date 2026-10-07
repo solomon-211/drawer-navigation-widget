@@ -23,9 +23,13 @@ flutter test
 | `ListView padding: EdgeInsets.zero` | Removes the default top padding inside the drawer so the `UserAccountsDrawerHeader` colour fills all the way behind the phone's status bar. Change it to `EdgeInsets.all(16)` to see the gap appear. |
 | `ListTile selectedTileColor` | Sets the background colour of the currently active drawer item. Set to `colorScheme.primaryContainer` (light teal). Change it to `Colors.red` to see the highlight colour change immediately. |
 
-## Screenshot
+## Screenshots
 
-![Drawer open showing Home, Profile, Settings and Message items](screenshot.png)
+![Home page](screenshot.png)
+
+![Drawer open showing all destinations](drawer_pages.png)
+
+![Profile page](profile.png)
 
 ## Author
 
